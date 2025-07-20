@@ -1,0 +1,2 @@
+1. create a folder named .github and then .github/workflows
+2. insideworkflows create a file CI.yaml (you can use any name for this file)
